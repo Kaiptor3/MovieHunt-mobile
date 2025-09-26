@@ -1,1 +1,1 @@
-# MovieHunt-mobile
+# MovieHunt (mobile)
